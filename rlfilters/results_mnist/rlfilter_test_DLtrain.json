@@ -1,0 +1,197 @@
+[
+    {
+        "game": 1,
+        "val_acc": 90.075,
+        "reward": 12.28750343360814,
+        "epoch_unfreeze": "[1, 4, 6, 9, 10, 11, 12]",
+        "total_layer_unfreeze:": 7,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 10.075,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 2,
+        "val_acc": 90.05833333333334,
+        "reward": 12.773109109512955,
+        "epoch_unfreeze": "[3, 9, 11, 13, 15]",
+        "total_layer_unfreeze:": 5,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 27.216666666666665,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 3,
+        "val_acc": 90.075,
+        "reward": 12.62614925305502,
+        "epoch_unfreeze": "[2, 5, 9, 10, 12, 13, 14]",
+        "total_layer_unfreeze:": 7,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 54.35,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 4,
+        "val_acc": 90.48333333333333,
+        "reward": 12.81237151961644,
+        "epoch_unfreeze": "[3, 4, 9]",
+        "total_layer_unfreeze:": 3,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 68.44166666666666,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 5,
+        "val_acc": 90.54166666666667,
+        "reward": 12.9547170306379,
+        "epoch_unfreeze": "[2, 8]",
+        "total_layer_unfreeze:": 2,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 77.325,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 6,
+        "val_acc": 90.125,
+        "reward": 12.854740292638722,
+        "epoch_unfreeze": "[3, 7, 11]",
+        "total_layer_unfreeze:": 3,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 85.70833333333333,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 7,
+        "val_acc": 90.225,
+        "reward": 12.481228345904231,
+        "epoch_unfreeze": "[1, 2, 6, 8, 9, 11, 12]",
+        "total_layer_unfreeze:": 7,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 89.075,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 8,
+        "val_acc": 90.43333333333334,
+        "reward": 12.492556262059287,
+        "epoch_unfreeze": "[1, 4, 5, 6, 9, 10, 11, 12, 15]",
+        "total_layer_unfreeze:": 9,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 90.21666666666667,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 9,
+        "val_acc": 90.50833333333334,
+        "reward": 12.675706966614042,
+        "epoch_unfreeze": "[2, 5, 7, 8, 12, 13]",
+        "total_layer_unfreeze:": 6,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 90.93333333333334,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 10,
+        "val_acc": 90.66666666666667,
+        "reward": 12.575417762965563,
+        "epoch_unfreeze": "[2, 3, 5, 6, 7, 12, 13, 15]",
+        "total_layer_unfreeze:": 8,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 91.09166666666667,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 11,
+        "val_acc": 90.76666666666667,
+        "reward": 12.714541673975326,
+        "epoch_unfreeze": "[3, 5, 6, 7, 10, 14, 15]",
+        "total_layer_unfreeze:": 7,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 91.30833333333334,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 12,
+        "val_acc": 90.64166666666667,
+        "reward": 12.846174739811726,
+        "epoch_unfreeze": "[2, 3, 14, 15]",
+        "total_layer_unfreeze:": 4,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 91.09166666666667,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 13,
+        "val_acc": 90.675,
+        "reward": 12.884047294334326,
+        "epoch_unfreeze": "[4, 5, 10, 11, 15]",
+        "total_layer_unfreeze:": 5,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 91.25,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 14,
+        "val_acc": 90.60833333333333,
+        "reward": 13.132981574869907,
+        "epoch_unfreeze": "[6, 10, 13, 15]",
+        "total_layer_unfreeze:": 4,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 91.14166666666667,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    },
+    {
+        "game": 15,
+        "val_acc": 90.58333333333333,
+        "reward": 12.596107194644214,
+        "epoch_unfreeze": "[2, 4, 5, 6, 9, 12, 14]",
+        "total_layer_unfreeze:": 7,
+        "best_reward": 0,
+        "best_acc": 0,
+        "current_source_model_val_acc": 91.075,
+        "history_source_model_peak_val_acc": [
+            91.075
+        ]
+    }
+]
